@@ -1,0 +1,2 @@
+# lintang
+Halo welcome baik
